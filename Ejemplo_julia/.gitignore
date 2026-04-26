@@ -1,0 +1,21 @@
+# Compilacion
+*.o
+
+# Ejecutable
+fibonacci
+
+# Datos generados por el programa
+*.txt
+
+# Imagenes y graficas generadas
+*.png
+*.pdf
+
+#carpeta original
+Embedded-Systems-IoT
+
+# Archivos de editor
+*.swp
+*~
+.vscode/
+.DS_Store
